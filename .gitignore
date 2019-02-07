@@ -1,0 +1,16 @@
+
+*.vcxproj
+*.filters
+*.user
+*.lastbuildstate
+*.ilk
+*.pdb
+*.exe
+*.idb
+*.tlog
+*.obj
+*.sln
+*.log
+*.ipch
+*.db
+notes/2_6_two_dimensional_array_ex/.vs/2_6notes/v15/.suo
