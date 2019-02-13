@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Week 3/build_functions/.vs/build_functions/v15/.suo
 *.db
 *.ipch
@@ -17,3 +18,22 @@ Week 3/build_functions/.vs/build_functions/v15/.suo
 *.ilk
 Week 4/program 1/.vs/program 1/v15/.suo
 Week 3/circumference/.vs/circumference/v15/.suo
+=======
+*.vcxproj
+*.filters
+*.user
+*.lastbuildstate
+*.ilk
+*.pdb
+*.exe
+*.idb
+*.tlog
+*.obj
+*.sln
+*.log
+*.ipch
+*.db
+notes/2_6_two_dimensional_array_ex/.vs/2_6notes/v15/.suo
+>>>>>>> 070cf5964b653743f4a1b340e648a7c7c17fa237
+notes/2_6_two_dimensional_array_ex/2_6notes/Source.cpp
+notes/2_6_two_dimensional_array_ex/2_6notes/Source.cpp
