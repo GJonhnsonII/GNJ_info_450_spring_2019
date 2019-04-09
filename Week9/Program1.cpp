@@ -13,7 +13,7 @@ int main() {
 	ofstream out;
 
 	while (repeat == 0) {
-		out.open("output.txt");
+		out.open("output.txt", ios_base::out|ios_base::app);
 		if (!out) {
 			cout << "Cannot open file." << endl;
 			return 1;
