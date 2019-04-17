@@ -35,7 +35,7 @@ int main() {
 			cout << "How much cargo (in pounds) can this vehicle hold?" << endl;
 			getline(cin, str_cgo);
 			int cargo = stoi(str_cgo, nullptr, 10);
-			cout << str_vehicle << " " << wheels << " " << pass << endl;
+			cout << str_vehicle << endl << wheels << endl << pass << endl;
 			cout << "cargo in pounds: " << cargo << endl;
 			out << str_vehicle << "\n" << wheels << "\n" << pass << "\n" << cargo << endl;
 			out.close();
@@ -43,7 +43,7 @@ int main() {
 		else {
 			cout << "What type of automobile is this?   Enter van, car or wagon" << endl;
 			getline(cin, str_type);
-			cout << str_vehicle << " " << wheels << " " << pass << endl;
+			cout << str_vehicle << endl << wheels << endl << pass << endl;
 			cout << "vehicle type: " << str_type << endl;
 			out << str_vehicle << "\n" << wheels << "\n" << pass << "\n" << str_type << "\n";
 			out.close();
